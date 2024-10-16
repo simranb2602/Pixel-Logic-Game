@@ -1,5 +1,7 @@
 Pixel Logic Game
 
+![image](https://github.com/user-attachments/assets/1061ae92-813a-4e1a-86ff-adadee2d8e8d)
+
 ![image](https://github.com/user-attachments/assets/e248daa4-ec3a-40f9-a46b-980ce0039680)
 
 
