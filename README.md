@@ -2,9 +2,6 @@ Pixel Logic Game
 
 ![image](https://github.com/user-attachments/assets/1061ae92-813a-4e1a-86ff-adadee2d8e8d)
 
-![image](https://github.com/user-attachments/assets/e248daa4-ec3a-40f9-a46b-980ce0039680)
-
-
 What is this project? 
 
 Pixel Logic is a puzzle game that challenges players to solve pixel art puzzles by using logic and reasoning. The primary goal is to deduce the correct placement of colored pixels on a grid based on numerical clues provided on the sides of the grid. It is a fun and engaging game designed to improve problem-solving and critical thinking skills while enjoying the creativity of pixel art.
