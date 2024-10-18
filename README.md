@@ -33,6 +33,13 @@ Game ui -
 ![1693049465447](https://github.com/user-attachments/assets/9ab5f5b7-2d52-4134-b12a-cc932ad0385d)
 
 
+
+
+
+
+
+
+
 ![1693049448636](https://github.com/user-attachments/assets/475b8ffb-61db-4d03-99a4-1fce77a9fe7d)
 
 
