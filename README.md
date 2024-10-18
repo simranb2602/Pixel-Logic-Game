@@ -28,3 +28,12 @@ How can we use this project?
 
 Players interact with the game by filling the grid with colors using the clues provided for rows and columns. The game can be played with a left-click to color in the boxes and a right-click to lock cells they wish to avoid. The user must solve the puzzle to win, and if they make mistakes or run out of time, they can retry or quit. The game also offers a live score counter and options to check previous scores for logged-in users.
 
+Game ui -
+
+![1693049465447](https://github.com/user-attachments/assets/9ab5f5b7-2d52-4134-b12a-cc932ad0385d)
+
+
+![1693049448636](https://github.com/user-attachments/assets/475b8ffb-61db-4d03-99a4-1fce77a9fe7d)
+
+
+
